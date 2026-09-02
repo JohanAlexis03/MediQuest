@@ -1,4 +1,4 @@
-import react from 'react';
+import React from 'react';
 import { View, Text, StyleSheet, Image, Pressable } from 'react-native';
 import EtiquetaNivel from './EtiquetaNivel';
 import { colors, spacing, typography } from '../theme';
